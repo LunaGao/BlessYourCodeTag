@@ -1,5 +1,9 @@
 # BlessYourCodeTag (代码保佑标签)
 [![GodBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/god.svg)](https://github.com/LunaGao/BlessYourCodeTag)
+[![AlpacaBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/alpaca.svg)](https://github.com/LunaGao/BlessYourCodeTag)
+[![SakyamuniBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/sakyamuni.svg)](https://github.com/LunaGao/BlessYourCodeTag)
+[![JesusBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/jesus.svg)](https://github.com/LunaGao/BlessYourCodeTag)
+[![AllahBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/allah.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 
 
 ## How to use? (如何使用)
