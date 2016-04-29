@@ -12,3 +12,5 @@ Please visit [this project web page](http://lunagao.github.io/BlessYourCodeTag/)
 God bless your code. 上帝保佑你的代码。[![GodBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/god.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 
 Alpaca bless your code. 羊驼保佑你的代码。[![AlpacaBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/alpaca.svg)](https://github.com/LunaGao/BlessYourCodeTag)
+
+Sakyamuni bless your code. 释迦牟尼保佑你的代码。[![SakyamuniBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/sakyamuni.svg)](https://github.com/LunaGao/BlessYourCodeTag)

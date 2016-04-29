@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="88"
+   width="108"
    height="20"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="alpaca.svg">
+   sodipodi:docname="sakyamuni.svg">
   <metadata
      id="metadata34">
     <rdf:RDF>
@@ -63,7 +63,7 @@
   <mask
      id="a">
     <rect
-       width="88"
+       width="108"
        height="20"
        rx="3"
        fill="#fff"
@@ -77,11 +77,11 @@
        id="path14"
        fill="#555" />
     <path
-       d="M37 0h51v20H37z"
+       d="M37 0h71v20H37z"
        id="path16"
        fill="#4c1" />
     <path
-       d="M0 0h88v20H0z"
+       d="M0 0h108v20H0z"
        id="path18"
        fill="url(#b)" />
   </g>
@@ -101,13 +101,13 @@
        y="14"
        id="text24">bless</text>
     <text
-       x="61.5"
+       x="71.5"
        y="15"
        id="text26"
-       style="fill:#010101;fill-opacity:0.3">Alpaca</text>
+       style="fill:#010101;fill-opacity:0.3">Sakyamuni</text>
     <text
-       x="61.5"
+       x="71.5"
        y="14"
-       id="text28">Alpaca</text>
+       id="text28">Sakyamuni</text>
   </g>
 </svg>
