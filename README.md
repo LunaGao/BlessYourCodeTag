@@ -11,4 +11,4 @@ Please visit [this project web page](http://lunagao.github.io/BlessYourCodeTag/)
 ## Existed Tags (已有标签)
 God bless your code. 上帝保佑你的代码。[![GodBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/god.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 
-
+Alpaca bless your code. 羊驼保佑你的代码。[![AlpacaBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/alpaca.svg)](https://github.com/LunaGao/BlessYourCodeTag)
