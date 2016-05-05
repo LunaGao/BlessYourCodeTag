@@ -13,7 +13,7 @@ Please visit [this project web page](http://lunagao.github.io/BlessYourCodeTag/)
 
 
 ## Existed Tags (已有标签)
-The following sequence of no particular order, sorted in order of addition.
+The following sequence has no particular order, and is sorted according to the adding order.
 以下顺序不分先后，按照添加顺序排序。
 
 
@@ -29,5 +29,5 @@ Allah bless your code. 真主保佑你的代码。[![AllahBless](https://cdn.raw
 
 
 ## Pull Requests (推送请求)
-If you want to Add a tag or tags, pull request.
+Welcome to pull request or raise issue if you need to add more tags.
 如果你有想要添加的tag，欢迎pull request。
