@@ -4,6 +4,7 @@
 [![SakyamuniBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/sakyamuni.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 [![JesusBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/jesus.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 [![AllahBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/allah.svg)](https://github.com/LunaGao/BlessYourCodeTag)
+[![RamenBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/ramen.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 
 
 ## How to use? (如何使用)
@@ -27,6 +28,8 @@ Jesus bless your code. 耶稣保佑你的代码。[![JesusBless](https://cdn.raw
 
 Allah bless your code. 真主保佑你的代码。[![AllahBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/allah.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 
+Ramen bless your code. 飞天面条教保佑你的代码。[![AllahBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/ramen.svg)](https://github.com/LunaGao/BlessYourCodeTag)
+[感谢CosmoGao的分支](https://github.com/CosmoGao/BlessYourCodeTag)
 
 ## Pull Requests (推送请求)
 Welcome to pull request or raise issue if you need to add more tags.
