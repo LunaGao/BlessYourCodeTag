@@ -31,6 +31,9 @@ Allah bless your code. 真主保佑你的代码。[![AllahBless](https://cdn.raw
 Ramen bless your code. 飞天面条教保佑你的代码。[![AllahBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/ramen.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 [感谢CosmoGao的分支](https://github.com/CosmoGao/BlessYourCodeTag)
 
+Flying Spaghetti Monster (FSM). 飞天面条教保佑你的代码。[![FSMBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/fsm.svg)](https://github.com/LunaGao/BlessYourCodeTag)
+[cmmata](https://github.com/cmmata/BlessYourCodeTag)
+
 ## Pull Requests (推送请求)
 Welcome to pull request or raise issue if you need to add more tags.
 如果你有想要添加的tag，欢迎pull request。
