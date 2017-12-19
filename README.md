@@ -30,6 +30,7 @@ Jesus bless your code. 耶稣保佑你的代码。[![JesusBless](https://cdn.raw
 
 Allah bless your code. 真主保佑你的代码。[![AllahBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/allah.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 
+
 Different translation 不同的翻译
 * Ramen bless your code. 飞天面条教保佑你的代码。[![RamenBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/ramen.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 [CosmoGao](https://github.com/CosmoGao)
