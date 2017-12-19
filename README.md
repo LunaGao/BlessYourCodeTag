@@ -5,6 +5,7 @@
 [![JesusBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/jesus.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 [![AllahBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/allah.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 [![RamenBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/ramen.svg)](https://github.com/LunaGao/BlessYourCodeTag)
+[![FSMBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/fsm.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 
 
 ## How to use? (如何使用)
@@ -28,11 +29,15 @@ Jesus bless your code. 耶稣保佑你的代码。[![JesusBless](https://cdn.raw
 
 Allah bless your code. 真主保佑你的代码。[![AllahBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/allah.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 
-Ramen bless your code. 飞天面条教保佑你的代码。[![AllahBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/ramen.svg)](https://github.com/LunaGao/BlessYourCodeTag)
-[感谢CosmoGao的分支](https://github.com/CosmoGao/BlessYourCodeTag)
+Different translation 不同的翻译
+* Ramen bless your code. 飞天面条教保佑你的代码。[![RamenBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/ramen.svg)](https://github.com/LunaGao/BlessYourCodeTag)
+[CosmoGao](https://github.com/CosmoGao)
 
-Flying Spaghetti Monster (FSM). 飞天面条教保佑你的代码。[![FSMBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/fsm.svg)](https://github.com/LunaGao/BlessYourCodeTag)
-[cmmata](https://github.com/cmmata/BlessYourCodeTag)
+* Flying Spaghetti Monster (FSM). 飞天面条教保佑你的代码。[![FSMBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/fsm.svg)](https://github.com/LunaGao/BlessYourCodeTag)
+[cmmata](https://github.com/cmmata)
+
+Bacon bless your code. 培根保佑你的代码。[![BaconBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/bacon.svg)](https://github.com/LunaGao/BlessYourCodeTag)
+[ggnkua](https://github.com/ggnkua)
 
 ## Pull Requests (推送请求)
 Welcome to pull request or raise issue if you need to add more tags.
