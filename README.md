@@ -6,6 +6,7 @@
 [![AllahBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/allah.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 [![RamenBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/ramen.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 [![FSMBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/fsm.svg)](https://github.com/LunaGao/BlessYourCodeTag)
+[![BaconBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/bacon.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 
 
 ## How to use? (如何使用)
