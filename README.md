@@ -7,6 +7,7 @@
 [![RamenBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/ramen.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 [![FSMBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/fsm.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 [![BaconBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/bacon.svg)](https://github.com/LunaGao/BlessYourCodeTag)
+[![UnicornBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/unicorn.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 
 
 ## How to use? (如何使用)
@@ -40,6 +41,9 @@ Different translation 不同的翻译
 
 Bacon bless your code. 培根保佑你的代码。[![BaconBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/bacon.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 [ggnkua](https://github.com/ggnkua)
+
+Unicron bless your code. 独角兽保佑你的代码。[![UnicornBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/unicorn.svg)](https://github.com/LunaGao/BlessYourCodeTag)
+[odahcam](https://github.com/odahcam)
 
 ## Pull Requests (推送请求)
 Welcome to pull request or raise issue if you need to add more tags.
