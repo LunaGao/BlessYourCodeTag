@@ -1,5 +1,6 @@
 # BlessYourCodeTag (代码保佑标签)
 [![GodBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/god.svg)](https://github.com/LunaGao/BlessYourCodeTag)
+[![GodBlessFS](https://img.shields.io/badge/bless-God-brightgreen?style=flat-square)](https://github.com/LunaGao/BlessYourCodeTag)
 [![AlpacaBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/alpaca.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 [![SakyamuniBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/sakyamuni.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 [![JesusBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/jesus.svg)](https://github.com/LunaGao/BlessYourCodeTag)
@@ -9,6 +10,9 @@
 [![BaconBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/bacon.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 [![UnicornBless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/unicorn.svg)](https://github.com/LunaGao/BlessYourCodeTag)
 
+**Based by [shields](https://shields.io/)**
+
+**基于 [shields](https://shields.io/)**
 
 ## How to use? (如何使用)
 Please visit [this project web page](http://lunagao.github.io/BlessYourCodeTag/).
